@@ -36,10 +36,10 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 * DSRN (Daily Sellable Room Nights)
 
 ## 📈 Dashboard
-Overview
+Overview :
 <img width="913" height="511" alt="Hospitality Dashboard" src="https://github.com/user-attachments/assets/796acee1-c9fb-487b-920c-929075f5aa8a" />
 
-Performance Analysis:
+Performance Analysis :
 The single-page dashboard includes:
 
 * KPI Card Strip — Revenue, Occupancy %, ADR, Cancellation Rate %, DSRN, Loss due to Cancellation at a glance
@@ -60,7 +60,7 @@ The single-page dashboard includes:
 
 ## 💡 Business Recommendations
 
-* AtliQ Grands, Bangalore recorded the lowest occupancy at 44.3%, along with a low average customer rating of 2.37/5 and a cancellation rate of 24.5%. The combination of low occupancy, customer ratings, and cancellations indicates a need to investigate customer experience, service quality, and booking cancellations at this property.
+* AtliQ Grands, Bangalore recorded the lowest occupancy at **44.3%**, along with a low average customer rating of **2.37/5**and a cancellation rate of **24.5%**. The combination of low occupancy, customer ratings, and cancellations indicates a need to investigate customer experience, service quality, and booking cancellations at this property.
 * **Weekend Demand Optimization:** The dashboard shows that **weekend occupancy (55.85%) is 6.79 percentage points lower than weekday occupancy (62.64%)**. This indicates relatively weaker weekend demand. To improve room utilization, management could introduce **targeted weekend offers, stay packages, and demand-based pricing**, while monitoring occupancy and ADR to ensure that promotional strategies translate into incremental revenue rather than simply reducing room rates.
 * **Increase Direct Booking Contribution:** Direct Online and Direct Offline bookings account for only **15% of total bookings**, compared with a substantially higher contribution from third-party platforms. This indicates an opportunity to increase the property's direct booking share through website-exclusive rates, loyalty benefits, targeted campaigns, and direct-booking incentives. A higher direct booking mix could improve customer ownership, strengthen loyalty, and potentially reduce commission-related costs associated with third-party platforms.
 * **Optimize pricing and promotions across room categories:** Continue using demand-based pricing and targeted promotions to maximize revenue from higher-performing room categories. At the same time, analyze the lower performance of Standard rooms and use targeted offers, competitive pricing, and upgrade opportunities to improve their occupancy and revenue contribution.
