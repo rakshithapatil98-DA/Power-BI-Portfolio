@@ -62,6 +62,3 @@ Compared room-category performance.
 ## 💡 Business Recommendations
 
 Based on the analysis, management can focus on improving low-performing properties, optimizing room pricing, and improving booking-channel performance.
-
-## 📁 Project Files
-Live Project Link: https://app.powerbi.com/view?r=eyJrIjoiNjFhYzZjNjEtYzU3OC00NTcwLTlhMTUtYWYxNWRiNmRmYjJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
