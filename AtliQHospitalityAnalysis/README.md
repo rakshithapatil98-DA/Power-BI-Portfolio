@@ -1,5 +1,8 @@
 # AtliQ Hospitality Analysis
 
+## 📊 Live Dashboard
+🔗 View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFhYzZjNjEtYzU3OC00NTcwLTlhMTUtYWYxNWRiNmRmYjJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## 📌 Project Overview
 This is an end-to-end Power BI dashboard project built on the AtliQ Hospitality dataset (Codebasics Resume Project Challenge), covering 3 months of hotel booking data across multiple cities and properties. The dashboard was designed to give AtliQ's revenue management team a single, interactive view of occupancy, revenue, pricing, and booking performance — replacing manual, error-prone Excel-based reporting with a live, filterable Power BI report.
 
