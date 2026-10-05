@@ -25,15 +25,15 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 * Star Schema Data Modeling — fact and dimension tables linked for efficient, scalable analysis
 
 ## 📊 Key KPIs
-Revenue
-Occupancy %
-Average Daily Rate (ADR)
-RevPAR
-Realisation %
-Booking %
-Cancellation %
-Average Rating
-DSRN (Daily Sellable Room Nights)
+* Revenue
+* Occupancy %
+* Average Daily Rate (ADR)
+* RevPAR
+* Realisation %
+* Booking %
+* Cancellation %
+* Average Rating
+* DSRN (Daily Sellable Room Nights)
 
 ## 📈 Dashboard
 Overview
@@ -42,23 +42,25 @@ Overview
 Performance Analysis:
 The single-page dashboard includes:
 
-KPI Card Strip — Revenue, Occupancy %, ADR, Cancellation Rate %, DSRN, Loss due to Cancellation at a glance
-Occupancy % & ADR Trend by Week — line chart tracking pricing vs. occupancy over time
-Revenue by City — clustered bar chart comparing city-level performance
-Occupancy % by City and Avg Rating by City — bar charts for performance benchmarking
-Properties by Key Metrics — detailed table (Revenue, Occupancy %, Cancellation Rate %, RevPAR, Realisation %, Avg Rating) per property
-Bookings % by Platform — bar chart showing channel-wise booking distribution
-Occupancy by Day Type — donut chart (weekday vs. weekend patterns)
-Avg Rating Gauge — quick visual read on overall guest satisfaction
-Slicers — City, Property, Room Class, Booking Platform, Booking Status, Month-Year, Day Type — enabling full self-service filtering
+* KPI Card Strip — Revenue, Occupancy %, ADR, Cancellation Rate %, DSRN, Loss due to Cancellation at a glance
+* Avg Rating Gauge — quick visual read on overall guest satisfaction
+* Occupancy % & ADR Trend by Week — line chart tracking pricing vs occupancy over time
+* Revenue by City,Occupancy % by City and Avg Rating by City — clustered bar chart comparing city-level performance
+* Properties by Key Metrics — detailed table (Revenue, Occupancy %, Cancellation Rate %, RevPAR, Realisation %, Avg Rating) per property    and city
+* Bookings % by Platform — bar chart showing platform-wise booking distribution
+* Occupancy by Day Type — donut chart (weekday vs weekend patterns)showing day type occupancy
+* Slicers — City, Property, Room Class, Booking Platform, Booking Status, Month, Day Type — enabling full self-service filtering
 
 ## 🔍 Key Insights
-Identified properties with higher and lower occupancy.
-Compared revenue performance across cities.
-Analyzed booking platform performance.
-Identified trends in cancellations and customer ratings.
-Compared room-category performance.
+* Property-level occupancy: AtliQ Palace in Delhi recorded the highest occupancy rate of 66.3%, while AtliQ Grands in Bangalore had the lowest occupancy rate of 44.3% during the 3-month analysis period, indicating a significant variation in property-level performance.
+* City-wise revenue performance: Mumbai generated the highest revenue, followed by Bangalore, Hyderabad, and Delhi, maintaining a consistent revenue ranking across the analysis period.
+* Booking platform performance: The Other booking platforms contributed the largest share at 40.89%, followed by MakeYourTrip at 20%. Direct Offline bookings contributed only 5%, indicating an opportunity to strengthen direct booking channels and reduce dependency on third-party platforms.
+* Weekday vs. weekend occupancy: Weekday occupancy (62.64%) was significantly higher than weekend occupancy (55.85%), suggesting an opportunity to improve weekend demand through targeted promotions, packages, and pricing strategies.
+* Room category revenue: The Elite room category generated the highest revenue at ₹553M, followed by Premium at ₹456M, Presidential at ₹372M, and Standard at ₹305M. This indicates that higher-category rooms are making a stronger contribution to overall revenue.
 
 ## 💡 Business Recommendations
 
-Based on the analysis, management can focus on improving low-performing properties, optimizing room pricing, and improving booking-channel performance.
+* AtliQ Grands, Bangalore recorded the lowest occupancy at 44.3%, along with a low average customer rating of 2.37/5 and a cancellation rate of 24.5%. The combination of low occupancy, customer ratings, and cancellations indicates a need to investigate customer experience, service quality, and booking cancellations at this property.
+* **Weekend Demand Optimization:** The dashboard shows that **weekend occupancy (55.85%) is 6.79 percentage points lower than weekday occupancy (62.64%)**. This indicates relatively weaker weekend demand. To improve room utilization, management could introduce **targeted weekend offers, stay packages, and demand-based pricing**, while monitoring occupancy and ADR to ensure that promotional strategies translate into incremental revenue rather than simply reducing room rates.
+* **Increase Direct Booking Contribution:** Direct Online and Direct Offline bookings account for only **15% of total bookings**, compared with a substantially higher contribution from third-party platforms. This indicates an opportunity to increase the property's direct booking share through website-exclusive rates, loyalty benefits, targeted campaigns, and direct-booking incentives. A higher direct booking mix could improve customer ownership, strengthen loyalty, and potentially reduce commission-related costs associated with third-party platforms.
+* **Optimize pricing and promotions across room categories:** Continue using demand-based pricing and targeted promotions to maximize revenue from higher-performing room categories. At the same time, analyze the lower performance of Standard rooms and use targeted offers, competitive pricing, and upgrade opportunities to improve their occupancy and revenue contribution.
